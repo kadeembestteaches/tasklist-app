@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "296670019024",
+    "firebase_url": "https://tasklistapp-6aaee.firebaseio.com",
+    "project_id": "tasklistapp-6aaee",
+    "storage_bucket": "tasklistapp-6aaee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:296670019024:android:7b43a1163ae7f10fcf8dd5",
+        "android_client_info": {
+          "package_name": "com.example.tasklistapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "296670019024-trvb5h71ofg6b1j329ave2q1v837q3ah.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tasklistapp",
+            "certificate_hash": "5878658069770114911ca9bdb1b5761f9a58a194"
+          }
+        },
+        {
+          "client_id": "296670019024-scdh9apfvc3op292qfdrfh76fdm0a6p8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDU0IFSca_VL28dgMpqDs6da94lQ3MGhVs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "296670019024-scdh9apfvc3op292qfdrfh76fdm0a6p8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
